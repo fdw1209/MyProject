@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/commons-dbutils-1.3.jar"/>
+	<classpathentry kind="lib" path="libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="libs/commons-net-3.0.jar" sourcepath="C:/Users/fdw/.sourceattacher/commons-net-3.0-sources.jar"/>
+	<classpathentry kind="lib" path="libs/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="libs/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="libs/httpcore-4.4.5.jar"/>
+	<classpathentry kind="lib" path="libs/javax.servlet-api-4.0.1.jar"/>
+	<classpathentry kind="lib" path="libs/jaxen-full.jar"/>
+	<classpathentry kind="lib" path="libs/jaxen-jdom.jar"/>
+	<classpathentry kind="lib" path="libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="libs/mysql-connector-java-5.1.27.jar"/>
+	<classpathentry kind="lib" path="libs/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="libs/org.json_1.6.0.jar"/>
+	<classpathentry kind="lib" path="libs/poi-3.17.jar"/>
+	<classpathentry kind="lib" path="libs/poi-ooxml-3.17.jar"/>
+	<classpathentry kind="lib" path="libs/saxpath.jar"/>
+	<classpathentry kind="lib" path="libs/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/fdw/Downloads/Compressed/eclipse-jee-mars-2-win32/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.104.2.v20160212-1350.jar" sourcepath="C:/Users/fdw/.sourceattacher/org.eclipse.swt.win32.win32.x86.source_3.104.2.v20160212-1350.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

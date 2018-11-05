@@ -1,0 +1,2 @@
+Telnet192.168.1.1
+使用Telnet命令获取数据（SN、SSID、Password）

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>2018-10-12 11:36:20</comment>
+<entry key="MinDownAverageRate">20</entry>
+<entry key="C_DB_USER">sa</entry>
+<entry key="C_DB_PORT">1433</entry>
+<entry key="C_DB_IPADDR">10.3.8.44</entry>
+<entry key="MinUpAverageRate">20</entry>
+<entry key="C_DB_TYPE">MicrosoftSQL</entry>
+<entry key="MinTotalAverageRate">20</entry>
+<entry key="C_DB_PASS">pass</entry>
+</properties>

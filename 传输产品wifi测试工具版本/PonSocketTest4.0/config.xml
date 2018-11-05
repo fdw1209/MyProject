@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>2018-10-25 11:22:09</comment>
+<entry key="C_DB_IPADDR">10.3.8.44</entry>
+<entry key="Dev1_CableIp">192.168.1.10</entry>
+<entry key="Dev2_WirelessIp">192.168.1.4</entry>
+<entry key="C_DB_USER">sa</entry>
+<entry key="Dev2_WirelessNet">12/f8 59 71 03 7f a5/Intel(R) Dual Band Wireless-AC 8265</entry>
+<entry key="Dev1_CableNet">23/00 0e c6 d6 6b 59/ASIX AX88772C USB2.0 to Fast Ethernet Adapter</entry>
+<entry key="Dev1_Pass">rqjjkj53</entry>
+<entry key="C_DB_PASS">pass</entry>
+<entry key="Dev2_Pass">rqjjkj53</entry>
+<entry key="C_DB_TYPE">MicrosoftSQL</entry>
+<entry key="MinTotalAverageRate">15</entry>
+<entry key="Dev1_NetType">2.4G</entry>
+<entry key="MinDownAverageRate">15</entry>
+<entry key="Dev2_CableIp">192.168.1.11</entry>
+<entry key="Dev1_Sn">SCCHB1000126</entry>
+<entry key="C_DB_PORT">1433</entry>
+<entry key="Dev2_CableNet">23/00 0e c6 d6 6b 59/ASIX AX88772C USB2.0 to Fast Ethernet Adapter</entry>
+<entry key="Dev1_SSID">CMCC-ehav</entry>
+<entry key="StreamCount">3</entry>
+<entry key="MinUpAverageRate">15</entry>
+<entry key="Dev2_SSID">CMCC-ehav</entry>
+<entry key="Dev2_Sn">SCCHB1000126</entry>
+<entry key="TestTime">20</entry>
+<entry key="DeviceType">GP920</entry>
+<entry key="Dev2_NetType">2.4G</entry>
+<entry key="Dev1_WirelessIp">192.168.1.4</entry>
+<entry key="Dev1_WirelessNet">12/f8 59 71 03 7f a5/Intel(R) Dual Band Wireless-AC 8265</entry>
+</properties>

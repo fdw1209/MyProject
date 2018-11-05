@@ -1,0 +1,1 @@
+从数据库中获取数据（SN（扫描）、TaskId（临时配置）、SSID、PassWord）

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>2018-09-30 10:10:01</comment>
+<entry key="C_DB_IPADDR">10.3.8.44</entry>
+<entry key="TaskId">180723145546</entry>
+<entry key="C_DB_USER">sa</entry>
+<entry key="DurationSeconds">20</entry>
+<entry key="C_DB_PASS">pass</entry>
+<entry key="ServerPort">8899</entry>
+<entry key="ServerIp">192.168.1.10</entry>
+<entry key="C_DB_TYPE">MicrosoftSQL</entry>
+<entry key="NetType">2.4G</entry>
+<entry key="MinTotalAverageRate">40</entry>
+<entry key="Passsword">6nvsnett</entry>
+<entry key="MinDownAverageRate">20</entry>
+<entry key="AfterSecsStat">5</entry>
+<entry key="ClientPort">9988</entry>
+<entry key="C_DB_PORT">1433</entry>
+<entry key="MinUpAverageRate">20</entry>
+<entry key="SN">CMDCA40007E6</entry>
+<entry key="ClientIp">192.168.1.3</entry>
+<entry key="SSID">CMCC-FxFh</entry>
+<entry key="DownStreamCount">3</entry>
+<entry key="UpStreamCount">3</entry>
+<entry key="DurationMinutes">0</entry>
+</properties>

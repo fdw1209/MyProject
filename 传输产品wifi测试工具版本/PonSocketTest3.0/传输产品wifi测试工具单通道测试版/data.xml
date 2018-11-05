@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--将数据从程序输出到XML中！ -->
+<properties> 
+  <item id="CMDCA40007E6"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>35.03</upStreamRate>  
+    <downStreamRate>44.97</downStreamRate>  
+    <totalStreamRate>80.0</totalStreamRate>  
+    <testResult>Pass</testResult>  
+    <testTime>2018-10-17 14:23:15</testTime> 
+  </item>  
+  <item id="CMDCA40007E6"> 
+    <netType>5G</netType>  
+    <upStreamRate>42.62</upStreamRate>  
+    <downStreamRate>47.25</downStreamRate>  
+    <totalStreamRate>89.87</totalStreamRate>  
+    <testResult>Pass</testResult>  
+    <testTime>2018-10-23 11:18:33</testTime> 
+  </item>  
+  <item id="CMDCA400047F"> 
+    <netType>2.4G</netType>  
+    <upStreamRate>41.37</upStreamRate>  
+    <downStreamRate>20.84</downStreamRate>  
+    <totalStreamRate>64.21</totalStreamRate>  
+    <testResult>Pass</testResult>  
+    <testTime>2018-10-22 13:52:05</testTime> 
+  </item>  
+  <item id="CMDCA400047F"> 
+    <netType>5G</netType>  
+    <upStreamRate>44.12</upStreamRate>  
+    <downStreamRate>45.87</downStreamRate>  
+    <totalStreamRate>89.99</totalStreamRate>  
+    <testResult>Pass</testResult>  
+    <testTime>2018-10-19 17:41:02</testTime> 
+  </item> 
+</properties>
